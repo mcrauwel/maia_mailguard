@@ -796,9 +796,8 @@ td.list-toggle {
 }
 
 #protectioncontrol {
-    margin:5px 0;
-    min-width:188px;
-    width:188px;
+    margin: 13px 18%;
+    width:60%;
 }
 
 #protectioncontrol li.submitrow {
@@ -820,7 +819,8 @@ td.list-toggle {
     text-align: center;
 }
 #welcome {
-    width:200px;
+   width: 100%;
+   padding: 13px;
 }
 
 #maincontent {
